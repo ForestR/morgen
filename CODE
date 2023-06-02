@@ -11,7 +11,7 @@ topic: Gas Network Simulation
 type: Platform
 license: BSD-2-Clause
 license-type: open-source
-repository: github.com/mpcsc/morgen
+repository: https://git.io/morgen
 repository-type: git
 language: Matlab
 dependencies: Octave >=6.1, Matlab >=2020b
